@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kittapp</string>
+    <string name="home">Home</string>
+    <string name="about_us">About Us</string>
+    <string name="profile">Profile</string>
+    <string name="appbar_scrolling_view_behavior">test</string>
+    <string name="search">About Us</string>
+    <string name="favorite">Profile</string>
+</resources>
